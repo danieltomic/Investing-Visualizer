@@ -1,0 +1,36 @@
+{
+  "name": "Investing-Visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieltomic/Investing-Visualizer.git"
+  },
+  "keywords": [],
+  "author": "Daniel Tomic Lindvall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieltomic/Investing-Visualizer/issues"
+  },
+  "homepage": "https://github.com/danieltomic/Investing-Visualizer#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@material-ui/core": "^4.12.4",
+    "@mui/material": "^5.11.10",
+    "chart.js": "^4.2.1",
+    "chartjs": "^0.3.24",
+    "framer-motion": "^10.0.0",
+    "next": "^13.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.4.3"
+  }
+}
