@@ -1,9 +1,9 @@
 # Investing-Visualizer
 
-Project developed by Daniel Tomic Lindvall on his journey to learn front end development.
+Project in development by Daniel Tomic Lindvall to practise front end and data visualization
 
-https://investing-visualizer.vercel.app
+## Status: functions and logic are implemented and working. No styling or validation has been implemented
 
-Currently the only functionality is a compound interest visualizer for monthly savings.
+> The project is in a early prototype stage and can be found at: https://investing-visualizer.vercel.app
 
-Might add more functonalities in the future.
+My goal with this project was to learn how to use charts (Recharts.js) to visualize data. This was my first front end project that I 'actually' wrote by myself. Left to do is style/validate, structure up the files, maybe add additional functionalities. Not sure when/if I'll be coming back to fix these things as I have some interesting projects and a new employment.
